@@ -54,3 +54,11 @@ div p {
 footer p {
     background-color: aliceblue;
 }
+
+p {
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+    padding: 10px;
+    margin: 7px;
+}
